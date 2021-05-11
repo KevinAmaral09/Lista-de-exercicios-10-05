@@ -1,0 +1,16 @@
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.exe
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.deps.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\bin\Debug\net5.0\Exercicio 6.pdb
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.pdb
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Vetores\Exercicio 6\obj\Debug\net5.0\Exercicio 6.genruntimeconfig.cache

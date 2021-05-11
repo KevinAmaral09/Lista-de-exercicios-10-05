@@ -1,0 +1,16 @@
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.exe
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.deps.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.runtimeconfig.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\ref\Exercicio 3.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\bin\Debug\net5.0\Exercicio 3.pdb
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\ref\Exercicio 3.dll
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.pdb
+C:\Users\Kevin\Desktop\Lista de exercícios 10.05\Condicionais\Exercicio 3\obj\Debug\net5.0\Exercicio 3.genruntimeconfig.cache
